@@ -3,7 +3,7 @@ import Link from "next/link"
 const Home = () => {
   return (
     <>
-      <a>work</a>
+      <a>react-work s22020</a>
       <h1>Layout</h1> 
         <ul>
           <li>
