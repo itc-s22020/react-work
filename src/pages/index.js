@@ -35,7 +35,7 @@ const Home = () => {
             <div>CSSでつくるグリッドレイアウト</div>
           </Link>
         </li>
-
+        {/*
         <li>
           <Link href="/layout6/">
             <div>CSSでつくる斜め型ボックスレイアウト</div>
@@ -47,6 +47,7 @@ const Home = () => {
             <div>CSS3でつくる重ね写真レイアウト</div>
           </Link>
         </li>
+        */}
 
       </ul>
     </>
